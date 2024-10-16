@@ -1,9 +1,9 @@
 # Ashita-Jaiswal
-<ul> ●📍Hey! my name is Ashita Jaiswal. </ul>
+<ul> ●📍Hey! My name is Ashita Jaiswal. </ul>
 <ul> ● 😶‍🌫️ I am exploring and learning in the feild of Data Science and Analytics. </ul>
 <ul> ● 👀 Open to Work!! </ul>
 <ul> ● 🌱 Did a course in Data Science from Internshala. </ul>
-<ul> ● 🔭 Technologies I work with:
+<ul> ● 🔭 Technologies I work with :
 <ul>
        o Advance Excel
 </ul>
@@ -25,7 +25,7 @@
 
 </ul>
 <ul> ● 📫 How to reach me?
-       <ul> o LinkedIn: https://www.linkedin.com/in/ashita27/
+       <ul> o LinkedIn : https://www.linkedin.com/in/ashita27/
 </ul>
 </ul>
 
