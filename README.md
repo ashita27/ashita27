@@ -1,4 +1,3 @@
-## Hi there 👋
 # Ashita-Jaiswal
 <ul> ●📍Hey! my name is Ashita Jaiswal. </ul>
 <ul> ● 😶‍🌫️ I am exploring and learning in the feild of data Science and Analytics. </ul>
